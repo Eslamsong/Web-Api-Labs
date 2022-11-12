@@ -1967,11 +1967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.BL\\Hospital.BL.csproj",
+      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.BL\\Hospital.BL.csproj",
       "projectName": "Hospital.BL",
-      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.BL\\Hospital.BL.csproj",
+      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.BL\\Hospital.BL.csproj",
       "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.BL\\obj\\",
+      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1988,8 +1988,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.DAL\\Hospital.DAL.csproj": {
-              "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.DAL\\Hospital.DAL.csproj"
+            "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.DAL\\Hospital.DAL.csproj": {
+              "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.DAL\\Hospital.DAL.csproj"
             }
           }
         }

@@ -3489,11 +3489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 4\\Authentication\\Authentication.csproj",
+      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Authentication\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 4\\Authentication\\Authentication.csproj",
+      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Authentication\\Authentication.csproj",
       "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 4\\Authentication\\obj\\",
+      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",

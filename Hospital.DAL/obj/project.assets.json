@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.DAL\\Hospital.DAL.csproj",
+      "projectUniqueName": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.DAL\\Hospital.DAL.csproj",
       "projectName": "Hospital.DAL",
-      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.DAL\\Hospital.DAL.csproj",
+      "projectPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.DAL\\Hospital.DAL.csproj",
       "packagesPath": "C:\\Users\\eslam\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.DAL\\obj\\",
+      "outputPath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eslam\\AppData\\Roaming\\NuGet\\NuGet.Config",

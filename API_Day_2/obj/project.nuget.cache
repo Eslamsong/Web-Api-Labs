@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9si/JhSIFjELIIf1rQq8T7bGyQ31VSea6fcGj/ETiHFTq8j8NnQA/0plLWfCEnCsMljjFoUsFCtY/sLfVi0dRQ==",
+  "dgSpecHash": "93enrd0mQf3hFHmta8POA72ndPACPOp5MZiR6PYHnJJz0kar6fMYRXd4+SJPakKa5c5NVMhZBWU71keuPxgc8w==",
   "success": true,
-  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_Day_2\\API_Day_2.csproj",
+  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\API_Day_2\\API_Day_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eslam\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\eslam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

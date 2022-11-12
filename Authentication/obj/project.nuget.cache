@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Xj6KXcnFmiJ+E0f0rSFmJ0goRUFhZXlFgk17nyaI61BYlMo4UOzDdZa3j+z6zfseEl922I0Y7TCgpGY155miA==",
+  "dgSpecHash": "wqHBrL0+f8ny/wYKlOXkpmaX1yneoNsBO1a726xnhStFLd8XzGWIvJqUsjjFDBJZKJc4TwyUug2cVPO7HYp/hQ==",
   "success": true,
-  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 4\\Authentication\\Authentication.csproj",
+  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Authentication\\Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eslam\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\eslam\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

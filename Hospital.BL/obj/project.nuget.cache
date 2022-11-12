@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "notEahWdOc+/3xEj5Bb6xrETAhv5Z/PxWN1EFWK0q6OIKOZhTilO7J+/29MELsMUQ+uZ0Rj9q7azA6YiPrYpAA==",
+  "dgSpecHash": "X4iDiw8+HobaLIld7PWtvueG8bHfvhDT8oeVWeg9rmTZS6hmC6mJPOEjWuVhko1oFh6OWRpEW0syaEM1Q2LZ0w==",
   "success": true,
-  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 1\\Hospital.BL\\Hospital.BL.csproj",
+  "projectFilePath": "E:\\ITI 3-months\\WEB API\\Day 1\\API_1\\Web-Api-Labs\\Hospital.BL\\Hospital.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eslam\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\eslam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
